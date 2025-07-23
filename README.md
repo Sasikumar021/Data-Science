@@ -12,7 +12,6 @@ This repo includes the following Jupyter Notebook (.ipynb) files:
 | `Google_Stock_Price_Prediction.ipynb` |
 | `Machine_Learning.ipynb` |
 | `Major_Project.ipynb` |
-| `Minor_Project.ipynb` |
 | `Salary_data.ipynb` |
 | `Sales_Category_Prediction.ipynb` |
 | `Spamham.ipynb` |
